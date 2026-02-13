@@ -12,7 +12,7 @@ Change GAME_MODE to switch between tournament rounds:
 
 import pygame
 GAME_MODE = 1                       # 1=Scramble, 2=Labyrinth, 3=Duel
-BOT_DEFAULT_COUNT =  4       # Number of bots in game
+BOT_DEFAULT_COUNT =  4      # Number of bots in games
 SCRAMBLE_TOP_SURVIVORS = 2          # How many advance to next round
 SCRAMBLE_DURATION = 60             # 3 minutes in seconds
 # =============================================================================
